@@ -18,3 +18,8 @@ $ pip install -r requirements.txt
 
 3. Migrate
 $ python manage.py migrate
+
+4. Runserver
+$ python manage.py runserver
+
+The Website could be run on browser at http://127.0.0.1:8000/api/v1/
